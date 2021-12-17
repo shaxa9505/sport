@@ -1,0 +1,56 @@
+.menu{
+    width: 100%;
+    height: 515px;
+    /*border: 1px solid black;*/
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box1{
+    width: 100%;
+    height: 500px;
+    /*border: 1px solid black;*/
+    text-align: justify;
+}
+
+.box2{
+    text-align: center;
+}
+
+h1{
+    width: 100%;
+    height: 35px;
+    margin: auto;
+    text-align: center;
+    transition: 2s;
+    border-radius: 30px;
+    color: red;
+    background-color: blue;
+}
+
+h1:hover{
+    width: 800px;
+    background-color: red;
+    color: blue;
+}
+
+.menu1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box3 img{
+    width: 700px;
+    height: 500px;
+}
+.box4 img{
+    width: 650px;
+    height: 500px;
+}
+
+a{
+    text-decoration: none;
+}
